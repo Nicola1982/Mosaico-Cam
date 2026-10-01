@@ -1,0 +1,35 @@
+﻿MOSAICO CAMERE - COMPONENTI DI TERZI
+=====================================
+Mosaico Camere (c) 2026 Murari Nicola utilizza i seguenti componenti, ciascuno
+distribuito con la propria licenza. Appartengono ai rispettivi autori. I testi
+completi delle licenze sono disponibili presso i progetti originali (cerca il nome
+su https://pypi.org) e, dove previsto, accompagnano le librerie nel programma.
+
+Componente              Licenza
+----------------------  ---------------------------------------------------------
+Python / Tcl-Tk         Python Software Foundation License / licenza Tcl-Tk (BSD)
+OpenCV (opencv-python)  Apache License 2.0
+FFmpeg (librerie in     GNU LGPL v2.1 - usate come librerie dinamiche separate,
+ opencv-python)         sorgenti presso https://ffmpeg.org
+NumPy                   BSD-3-Clause (e licenze permissive delle librerie incluse)
+Pillow                  MIT-CMU (HPND)
+onvif-zeep              MIT
+zeep                    MIT
+lxml                    BSD-3-Clause
+requests                Apache License 2.0
+urllib3                 MIT
+certifi                 Mozilla Public License 2.0
+idna                    BSD-3-Clause
+charset-normalizer      MIT
+attrs                   MIT
+isodate                 BSD
+platformdirs            MIT
+requests-toolbelt       Apache License 2.0
+requests-file           Apache License 2.0
+PyInstaller (avvio)     GPL-2.0-or-later con eccezione che ne consente l'uso
+                        in programmi con qualsiasi licenza
+
+ffmpeg (programma separato, NON incluso): se installato dall'utente, è un
+programma di terzi con la propria licenza (https://ffmpeg.org/legal.html).
+
+I nomi di prodotti e marchi citati appartengono ai rispettivi proprietari.

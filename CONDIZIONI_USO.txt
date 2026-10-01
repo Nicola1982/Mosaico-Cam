@@ -1,0 +1,81 @@
+﻿MOSAICO CAMERE - Versione 1.0
+CONDIZIONI D'USO E LICENZA
+Copyright (C) 2026 Murari Nicola
+
+Leggi con attenzione. Installando o usando il programma accetti queste condizioni.
+
+
+1. LICENZA - SOFTWARE LIBERO E GRATUITO
+Mosaico Camere è software libero, distribuito con licenza GNU General Public
+License versione 3 o successiva (GPL-3.0-or-later).
+Puoi usarlo gratuitamente, anche per lavoro, copiarlo, studiarlo, modificarlo e
+ridistribuirlo, rispettando i termini della GPL: in particolare, le versioni
+modificate che distribuisci devono restare sotto la stessa licenza e con il
+codice sorgente disponibile.
+Il testo completo della licenza è nel file LICENSE.txt, installato insieme al
+programma (versione originale in inglese: è l'unica che ha valore legale).
+
+
+2. NESSUNA GARANZIA
+Il programma è fornito "così com'è", senza garanzie di alcun tipo, espresse o
+implicite (compresa l'idoneità a uno scopo particolare). Nei limiti consentiti
+dalla legge, l'autore non risponde di danni, perdite di dati, registrazioni
+mancate o eventi non ripresi derivanti dall'uso, o dall'impossibilità di usare,
+il programma.
+Non farvi affidamento come unico sistema di sicurezza dove un malfunzionamento
+possa causare danni a persone o cose.
+
+
+3. USO RESPONSABILE E OBBLIGHI DI LEGGE
+- Collega solo telecamere tue o per le quali hai l'autorizzazione del proprietario.
+  È vietato usare il programma per accedere a telecamere altrui senza permesso o
+  per sorvegliare persone di nascosto.
+- Riprendere e registrare persone significa trattare dati personali. L'utilizzatore
+  è l'unico responsabile del rispetto delle norme vigenti (ad esempio GDPR e
+  normativa privacy; in ambito lavorativo, anche l'art. 4 dello Statuto dei
+  Lavoratori), compresi cartelli informativi, informative, tempi di conservazione
+  e il divieto di riprendere luoghi in cui c'è aspettativa di riservatezza.
+- Queste condizioni non costituiscono consulenza legale.
+
+
+4. PRIVACY DEL PROGRAMMA
+- Il programma non invia dati all'autore: nessuna telemetria, nessun account,
+  nessun cloud. Comunica solo con le telecamere della tua rete.
+- Le credenziali delle telecamere sono salvate sul tuo PC, in chiaro, nella cartella
+  %APPDATA%\MosaicoCamere (file cameras.json). Proteggi il PC e non condividere
+  quel file.
+- Le registrazioni, se attivate, sono salvate nel disco/cartella che scegli
+  (sottocartella MosaicoCam_Rec). Per impostazione predefinita i file più vecchi
+  di 24 ore vengono cancellati automaticamente (valore modificabile in
+  settings.json). Scegliere un tempo di conservazione adeguato è responsabilità
+  dell'utilizzatore.
+- Se scegli di installare ffmpeg, viene scaricato da internet tramite winget da
+  fonti di terzi.
+
+
+5. ASSISTENZA E FUNZIONI PREMIUM (SU ACCORDO)
+Il programma è gratuito. Assistenza, installazione, personalizzazioni,
+integrazioni e funzioni aggiuntive "premium" sono servizi separati e a
+pagamento, da concordare direttamente con l'autore, Murari Nicola.
+Contatto: [[CONTATTO]]
+
+
+6. COMPONENTI DI TERZI
+Il programma include componenti open source di terzi (OpenCV, Pillow, NumPy,
+ONVIF-Zeep e altri), soggetti alle rispettive licenze, elencate nel file
+THIRD_PARTY_NOTICES.txt. ffmpeg non è incluso: se lo installi, è un programma di
+terzi con la propria licenza.
+
+
+7. MARCHI
+Tapo, TP-Link, Hikvision, EZVIZ, Blink, ONVIF e gli altri nomi citati sono marchi
+dei rispettivi proprietari. Il programma non è affiliato né approvato da essi.
+
+
+8. DISINSTALLAZIONE
+Puoi disinstallare il programma in qualsiasi momento da "Impostazioni > App" di
+Windows, oppure dal menu Start con "Disinstalla Mosaico Camere", oppure con il
+file unins000.exe nella cartella di installazione.
+
+
+Per quanto non previsto si applica la legge italiana.
