@@ -62,7 +62,7 @@ Vedi [LICENSE](LICENSE), [CONDIZIONI_USO.txt](CONDIZIONI_USO.txt) e [THIRD_PARTY
 
 Il programma è gratuito. Assistenza, installazione, personalizzazioni e funzioni aggiuntive sono servizi a pagamento, da concordare direttamente con l'autore.
 
-**Contatti:** [[CONTATTO]]
+**Contatti:** [nicolamurari32@gmail.com]
 
 ---
 
